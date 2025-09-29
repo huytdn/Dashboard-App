@@ -2,7 +2,7 @@ import React from "react";
 import { CssBaseline, ThemeProvider } from "@mui/material";
 import { ColorModeContext, useMode } from "./theme";
 import Topbar from "./scenes/global/Topbar";
-import Sidebar from "./scenes/global/Topbar";
+import Sidebar from "./scenes/global/Sidebar";
 import Dashboard from "./scenes/Dashboard";
 // import Team from "./scenes/team";
 // import Invoices from "./scenes/invoices";
